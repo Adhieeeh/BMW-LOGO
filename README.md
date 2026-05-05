@@ -4,7 +4,7 @@ A simple, fun graphic project that recreates the iconic BMW logo using Python's 
 
 #Preview
 
-
+![logo Preview](bmwfun.png)
 
 #Project Overview
 
